@@ -150,6 +150,19 @@ killall Docker && open -a Docker
 
 You can equip the agent with [Agent Skills for Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) and [context7](https://github.com/upstash/context7) skills to improve performance.
 
+## Citation
+
+If you use AutoAgent in your work, please cite:
+
+```bibtex
+@software{autoagent_2026,
+  author = {Gu, Kevin and Lee, Mingyu},
+  title = {{AutoAgent}: Autonomous Harness Engineering},
+  url = {https://github.com/thirdlayerinc/autoagent},
+  year = {2026}
+}
+```
+
 ## License
 
 MIT
