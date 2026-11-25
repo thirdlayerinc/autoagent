@@ -150,6 +150,10 @@ killall Docker && open -a Docker
 
 You can equip the agent with [Agent Skills for Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) and [context7](https://github.com/upstash/context7) skills to improve performance.
 
+## Acknowledgments
+
+[red1108](https://github.com/red1108) contributed to the development of the agent harness and autonomous agent engineering workflow.
+
 ## License
 
 MIT
